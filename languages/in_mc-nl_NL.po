@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inesta Send Mail Copy\n"
+"POT-Creation-Date: 2017-02-03 15:01+0100\n"
+"PO-Revision-Date: 2017-02-03 15:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: in_wpmail_copy.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:13
+msgid "Mail Copy"
+msgstr "Mail Kopie"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:36
+msgid "Mail Copy Settings"
+msgstr "Mail Kopie Instellingen"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:43
+msgid "Set an e-mail address"
+msgstr "E-mail adres"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:51
+msgid "Use BCC instead of copy"
+msgstr "Gebruik BCC in plaats van een kopie"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:69
+msgid "Inesta Mail Copy"
+msgstr "Inesta Mail Copy"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:108
+msgid "Enter your settings below:"
+msgstr "Stel de instellingen onder in:"
+
+#: src/Inesta/MailCopy/Admin/Admin.php:121
+msgid ""
+"Set one e-mail address like \"demo@example.com\" currently multiple e-mail "
+"addresses are not supported."
+msgstr ""
+"Plaats één e-mail adres zoals \"demo@voorbeeld.com\". Op het moment worden "
+"meerdere e-mail adressen niet ondersteund. "
+
+#: src/Inesta/MailCopy/Admin/Admin.php:135
+msgid ""
+"Default behavior is sending a copy of the mail. If this box is checked we "
+"will the email above to the BCC instead.</br> The main \n"
+"\t\t\tbenefit is that you can see the original form address."
+msgstr ""
+"Standaard wordt er een kopie van de mail gestuurd. Als deze checkbox is "
+"aangevinkt wordt er gebruikt gemaakt van BCC. \n"
+"\t\t\t\\het voordeel is dat je het orginele e-mail adres kan zien. "
+
+#. Plugin Name of the plugin/theme
+msgid "Inesta Send Mail Copy"
+msgstr "Inesta Send Mail Copy"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://inesta.nl"
+msgstr "https://inesta.nl"
+
+#. Description of the plugin/theme
+msgid ""
+"Sends a copy or BCC of every e-mail send via WordPress to an e-mail address."
+msgstr ""
+"Verzend een kopie of BCC van iedere e-mail die vanuit WordPress wordt "
+"gestuurd. "
+
+#. Author of the plugin/theme
+msgid "Inesta"
+msgstr "Inesta"
